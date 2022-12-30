@@ -1,8 +1,8 @@
-# waynergy
+# Wayland μSynergy (Micro-Synergy)
 
-An implementation of a synergy client for wlroots compositors. Based on the 
-upstream uSynergy library (heavily modified for more protocol support and
-a bit of paranoia).
+An implementation of a Synergy client for wlroots compositors. Based on the 
+upstream [μSynergy](https://github.com/symless/synergy-micro-client) library
+(heavily modified for more protocol support and a bit of paranoia).
 
 ## Getting started
 
